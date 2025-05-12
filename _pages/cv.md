@@ -12,7 +12,11 @@ redirect_from:
 
 Work experience
 ======
-* 2023.10-2024.5
+* 2024.10-now
+  * ByteDance Seed
+  * Working on multimodal generation
+
+* 2023.12-2024.5
   * Midjourney, China
   * Working on text-to-image generation
 
@@ -30,8 +34,5 @@ Skills
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
 * Interests: Power/Progressive Metal Music, Hiking, Genshin Impact
 
-**Friends**
-======
-Borui Wan (HKU), Juntao Zhao (HKU), Lingting Zhu (HKU), Zhuofan Zong (Sensetime Research & CUHK)
 
 
