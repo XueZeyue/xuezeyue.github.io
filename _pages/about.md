@@ -20,10 +20,7 @@ Research Interests
 
 **Three Representative Works**
 ======
-  1. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023.
-  <font color="red">TL;DR</font>-Training a diffusion foundation model via 1,000 NVIDIA A100s.
-  2. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022.
-  <font color="red">TL;DR</font>-Training visual detectors via 768 NVIDIA A100s.
-  3. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation"
-  <font color="red">TL;DR</font>-The first unified RL-based framwork for visual generation.
+  1. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023. (<font color="red">TL;DR</font>-Training a diffusion foundation model via 1,000 NVIDIA A100s.)
+  2. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022. (<font color="red">TL;DR</font>-Training visual detectors via 768 NVIDIA A100s.)
+  3. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation". (<font color="red">TL;DR</font>-The first unified RL-based framwork for visual generation.)
 
