@@ -32,7 +32,6 @@ Work experience
 Skills
 ======
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
-* Interests: Power/Progressive Metal Music, Hiking, Genshin Impact
 
 
 
