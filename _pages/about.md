@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue (薛泽岳), a researcher with a passion for building Generative AI products and platforms. I am also a PhD student at The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. Recently, my research interests lie in building unified multimodal models like Transfusion. <font color="red">If you are interested in working with me, please feel free to email me.</font>
+Hello, I’m Zeyue Xue (薛泽岳), a researcher with a passion for building Generative AI products and platforms. I am also a PhD student at The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. I received my Bachelor's degree from Huazhong University of Science and Technology with ranking top 1%. Recently, my research interests lie in building unified multimodal models like Transfusion. <font color="red">If you are interested in working with me, please feel free to email me.</font>
 
 <br/>
 
