@@ -27,6 +27,10 @@ Work experience
 * 2020.11-2021.4
   * National University of Singapore
   * Working on large-batch training
+ 
+**Invited Talks**
+======
+2025-06: invited talks at PKU, ZJU, Xiaomi
 
   
 Skills
