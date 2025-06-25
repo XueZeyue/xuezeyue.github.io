@@ -23,3 +23,7 @@ Research Interests
   2. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022. [Code](https://github.com/Sense-X/AGVM) (**TL;DR**-Training visual detectors via 768 NVIDIA A100s.)
   3. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation", Seed Tech Report, [Code](https://github.com/XueZeyue/DanceGRPO/) (**TL;DR**-The first unified RL-based framwork for visual generation.)
 
+**Invited Talks**
+======
+2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe
+
