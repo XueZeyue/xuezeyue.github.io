@@ -30,7 +30,7 @@ Work experience
  
 **Invited Talks**
 ======
-2025-06: invited talks at PKU, ZJU, Xiaomi
+2025-06: invited talks at PKU, ZJU, Xiaomi, Pika
 
   
 Skills
