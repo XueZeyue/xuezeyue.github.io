@@ -28,11 +28,6 @@ Work experience
   * National University of Singapore
   * Working on large-batch training
  
-**Invited Talks**
-======
-2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe
-
-  
 Skills
 ======
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
