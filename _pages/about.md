@@ -25,5 +25,5 @@ Research Interests
 
 **Invited Talks**
 ======
-2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe
+2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe, Anuttacon
 
