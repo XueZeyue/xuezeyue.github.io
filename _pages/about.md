@@ -27,5 +27,5 @@ Research Interests
 
 **Invited Talks**
 ======
-2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe, Anuttacon
+2025-06: invited talks at PKU, ZJU, Xiaomi, Pika, Adobe, Anuttacon about DanceGRPO. The slide can be found [here](https://github.com/XueZeyue/xuezeyue.github.io/blob/main/_talks/dancegrpo.pdf).
 
