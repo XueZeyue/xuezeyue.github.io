@@ -19,6 +19,7 @@ Research Interests
   * Large-scale Pre-train&Post-train
   * Deep Generative Model
   * RLHF
+  * Generative World Model
 
 **Three Representative Works**
 ======
