@@ -10,7 +10,9 @@ redirect_from:
 
 Hello, I’m Zeyue Xue (薛泽岳), a researcher with a passion for building Generative AI products and platforms. I am also a PhD candidate at The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. I received my Bachelor's degree from Huazhong University of Science and Technology with a ranking top 1%. 
 
-<font color="red">I am actively looking for a full-time research scientist position in industry starting from 2026. Please reach out if there is a good match.</font>
+My work focuses on designing the pre-training and post-training pipelines for large-scale deep generative models, such as RAPHAEL and DanceGRPO.
+
+I am actively looking for a full-time research scientist position in industry starting from 2026. Please reach out if there is a good match.
 
 <br/>
 
