@@ -12,7 +12,11 @@ redirect_from:
 
 Work experience
 ======
-* 2024.10-now
+* 2024.10-present
+  * JD Explore Academy
+  * Working on multimodal generation
+
+* 2024.11-2025.10
   * ByteDance Seed
   * Working on multimodal generation
 
