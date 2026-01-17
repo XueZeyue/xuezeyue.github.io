@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* 2024.10-present
+* 2025.10-present
   * JD Explore Academy
   * Working on multimodal generation
 
