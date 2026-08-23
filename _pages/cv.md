@@ -17,7 +17,7 @@ Work experience
   * Working on multimodal generation
 
 * 2024.11-2025.10
-  * ByteDance Seed
+  * Top Seed Intern, ByteDance Seed
   * Working on multimodal generation
 
 * 2021.9-2023.10
