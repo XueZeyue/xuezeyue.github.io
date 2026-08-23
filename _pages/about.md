@@ -8,24 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue (薛泽岳), a Research Scientist at Joy Future Academy, JD.com, with a passion for building Generative AI products and platforms. I earned my Ph.D. from The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. I received my Bachelor's degree from Huazhong University of Science and Technology, where I ranked in the top 1% of my class.
+I’m Zeyue Xue (薛泽岳), a Research Scientist at Joy Future Academy, JD.com, where I build generative AI products and platforms. I received my Ph.D. from the University of Hong Kong (MMLab@HKU), advised by Professors Ping Luo and Wenping Wang.
 
-My work focuses on designing the pre-training and post-training pipelines for large-scale deep generative models, such as RAPHAEL and DanceGRPO.
+I launched the [Echo Project](https://github.com/jd-opensource/JoyAI-Echo) at Joy Future Academy and led the development and release of projects including JoyAI-Echo, JoyAI-Echo-1.5, and Echo-WM. My research focuses on large-scale generative models and interactive world models for games, real-world environments, and robotics.
 
 <br/>
 
 Research Interests
 ======
-  * Large-scale Pre-train&Post-train
   * Deep Generative Model
-  * RLHF
-  * Generative World Model
+  * World Model
 
-**Three Representative Works**
+**Representative Works**
 ======
-  1. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023. [Model API](https://miaohua.sensetime.com/) (**TL;DR**-Training a diffusion foundation model via 1,000 NVIDIA A100s, **the product model of SenseTime-SenseMirage**.) 
-  2. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022. [Code](https://github.com/Sense-X/AGVM) (**TL;DR**-Training visual detectors via 768 NVIDIA A100s.)
-  3. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation", Seed Tech Report, [Code](https://github.com/XueZeyue/DanceGRPO/) (**TL;DR**-The first unified RL-based framework for visual generation.)
+  1. Echo Team. "JoyAI-Echo"&"JoyAI-Echo-1.5"&"Echo-WM", [Code](https://github.com/jd-opensource/JoyAI-Echo).
+  2. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023, [Model API](https://miaohua.sensetime.com/).
+  3. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022, [Code](https://github.com/Sense-X/AGVM). 
+  4. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation", Seed Tech Report, [Code](https://github.com/XueZeyue/DanceGRPO/).
+
 
 **Invited Talks**
 ======
