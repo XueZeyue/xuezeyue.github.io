@@ -22,9 +22,10 @@ Research Interests
 **Representative Works**
 ======
   1. Echo Team. "JoyAI-Echo"&"JoyAI-Echo-1.5"&"Echo-WM", [Code](https://github.com/jd-opensource/JoyAI-Echo).
-  2. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023, [Model API](https://miaohua.sensetime.com/).
-  3. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022, [Code](https://github.com/Sense-X/AGVM). 
-  4. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation", Seed Tech Report, [Code](https://github.com/XueZeyue/DanceGRPO/).
+  2. Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo. "DanceGRPO: Unleashing GRPO on Visual Generation", Seed Tech Report, [Code](https://github.com/XueZeyue/DanceGRPO/).
+  3. Zeyue Xue\*, Guanglu Song\*, Qiushan Guo, Boxiao Liu, Zhuofan Zong, Yu Liu, Ping Luo. "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths", NeurIPS 2023, [Model API](https://miaohua.sensetime.com/).
+  4. Zeyue Xue, Jianming Liang, Guanglu Song, Zhuofan Zong, Liang Chen, Yu Liu, Ping Luo. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022, [Code](https://github.com/Sense-X/AGVM). 
+
 
 
 **Invited Talks**
