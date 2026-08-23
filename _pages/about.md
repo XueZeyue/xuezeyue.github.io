@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue (薛泽岳), a researcher with a passion for building Generative AI products and platforms. I am a fourth-year PhD candidate at The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. I received my Bachelor's degree from Huazhong University of Science and Technology with a ranking of top 1%. 
+Hello, I’m Zeyue Xue (薛泽岳), a Research Scientist at Joy Future Academy, JD.com, with a passion for building Generative AI products and platforms. I earned my Ph.D. from The University of Hong Kong (MMLAB@HKU), advised by Ping Luo and Wenping Wang. I received my Bachelor's degree from Huazhong University of Science and Technology, where I ranked in the top 1% of my class.
 
 My work focuses on designing the pre-training and post-training pipelines for large-scale deep generative models, such as RAPHAEL and DanceGRPO.
 
@@ -34,4 +34,3 @@ Research Interests
 <br/>
 <br/>
 <br/>
-

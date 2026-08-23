@@ -90,3 +90,35 @@
     }
   }
 }
+
+.visitor-map {
+  max-width: 320px;
+  margin: 0 auto 1.5em;
+  text-align: center;
+}
+
+.visitor-map__title {
+  margin: 0 0 0.65em;
+  color: $dark-gray;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#visitor-map-widget {
+  display: flex;
+  min-height: 140px;
+  align-items: center;
+  justify-content: center;
+}
+
+#visitor-map-status {
+  font-size: $type-size-7;
+}
+
+.visitor-map__note {
+  margin: 0.65em 0 0;
+  font-size: $type-size-8;
+}

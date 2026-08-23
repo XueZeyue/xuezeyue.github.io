@@ -10,7 +10,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  /* Reserve enough room for the absolutely positioned visitor-map footer. */
+  padding-bottom: 22em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;

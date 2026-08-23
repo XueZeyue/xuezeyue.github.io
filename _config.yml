@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zeyue Xue"
   avatar           : "profile.png"
-  bio              : "GenAI researcher"
+  bio              : "Research Scientist in Generative AI"
   location         : "Hong Kong"
-  employer         :
+  employer         : "Joy Future Academy, JD.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vJgxmQUAAAAJ&view_op=list_works"
   email            : "xuezeyue@connect.hku.hk"

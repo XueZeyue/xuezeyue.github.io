@@ -2,9 +2,17 @@
 
 <center>
 <div class="page__footer-follow">
-  <div id="clustrmaps-widget">
-    <!--<script type="text/javascript" id="clustrmaps" src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=iU_Ub_gk3SQUQ2Pu3VZnNkZgoC7CFVbVeVy5IFKy-SM'></script>-->
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&d=iU_Ub_gk3SQUQ2Pu3VZnNkZgoC7CFVbVeVy5IFKy-SM'></script>
+  <div class="visitor-map" aria-label="Visitor activity map">
+    <p class="visitor-map__title">Visitor activity</p>
+    <div id="visitor-map-widget">
+      <span id="visitor-map-status" role="status">Loading visitor map&hellip;</span>
+      <script id="_wauxzy">var _wau = window._wau || []; _wau.push(["map", "clsccof1f1", "xzy", "280", "140", "night", "cross-pink"]);</script>
+      <script async src="https://waust.at/m.js"
+              onload="document.getElementById('visitor-map-status').hidden = true"
+              onerror="document.getElementById('visitor-map-status').textContent = 'Visitor map is temporarily unavailable.'"></script>
+      <noscript>Enable JavaScript to view the visitor map.</noscript>
+    </div>
+    <p class="visitor-map__note">Approximate, anonymized visitor locations.</p>
   </div>
 
   <!--

@@ -13,7 +13,7 @@ redirect_from:
 Work experience
 ======
 * 2025.10-present
-  * JD Explore Academy
+  * Research Scientist, Joy Future Academy, JD.com
   * Working on multimodal generation
 
 * 2024.11-2025.10
@@ -27,6 +27,14 @@ Work experience
 * 2020.11-2021.4
   * National University of Singapore
   * Working on large-batch training
+
+Education
+======
+* Ph.D., The University of Hong Kong
+  * MMLAB@HKU; advised by Ping Luo and Wenping Wang
+
+* Bachelor's degree, Huazhong University of Science and Technology
+  * Ranked in the top 1% of the class
  
 Skills
 ======
@@ -36,6 +44,5 @@ Skills
 <br/>
 <br/>
 <br/>
-
 
 
