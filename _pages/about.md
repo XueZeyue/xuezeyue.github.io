@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Zeyue Xue (薛泽岳), a Research Scientist at Joy Future Academy, JD.com, where I build generative AI products and platforms. I received my Ph.D. from the University of Hong Kong (MMLab@HKU), advised by Professors Ping Luo and Wenping Wang.
+I’m Zeyue Xue (薛泽岳), a Research Scientist at Joy Future Academy, JD.com, where I build generative AI products and platforms. I received my Ph.D. from the University of Hong Kong (MMLab@HKU) in 2026 under the supervision of Ping Luo and Wenping Wang.
 
 I launched the [Echo Project](https://github.com/jd-opensource/JoyAI-Echo) at Joy Future Academy and led the development and release of projects including JoyAI-Echo, JoyAI-Echo-1.5, and Echo-WM. My research focuses on large-scale generative models and interactive world models for games, real-world environments, and robotics.
 
