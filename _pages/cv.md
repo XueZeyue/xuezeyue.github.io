@@ -13,7 +13,7 @@ redirect_from:
 Work experience
 ======
 * 2025.10-present
-  * Research Scientist, Joy Future Academy, JD.com
+  * TGT Program, Joy Future Academy, JD.com
   * Working on multimodal generation
 
 * 2024.11-2025.10
