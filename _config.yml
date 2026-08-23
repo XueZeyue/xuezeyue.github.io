@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zeyue Xue"
   avatar           : "profile.png"
-  bio              : "Research Scientist in Generative AI"
-  location         : "Hong Kong"
+  bio              : 
+  location         : 
   employer         : "Joy Future Academy, JD.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vJgxmQUAAAAJ&view_op=list_works"
